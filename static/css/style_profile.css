@@ -1,0 +1,43 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    opacity: 0.75;
+    background-color: #fff;
+}
+
+/* .profile img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+    width: 170px;
+    height: 170px;
+} */
+
+.profile p {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.profile h1 {
+    font-size: 25px; 
+    margin-top: 30px;
+}
+
+.profile button {
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+.profile .imgUser img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}

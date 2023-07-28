@@ -1,0 +1,7 @@
+Flask==2.0.2
+Keras==2.8.0
+tensorflow==2.7.0
+pymysql==1.0.3
+pillow==9.5.0
+opencv-python==4.5.3.56
+
